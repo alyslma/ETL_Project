@@ -1,3 +1,5 @@
+[ETL Project Report](etl_project_report.pdf)
+
 # Guidelines for ETL Project
 
 This document contains guidelines, requirements, and suggestions for Project 1.
